@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - industrial</title>
+ <link href="http://example.com/tag/industrial/index.xml" rel="self"/>
+ <link href="http://example.com/tag/industrial.html"/>
+ <updated>2016-12-23T13:56:25-06:00</updated>
+ <id>http://example.com/tag/industrial.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ 
+ <entry>
+   <title>Sewing Machine</title>
+   <link href="http://example.com/sewing-machine/"/>
+   <updated>2016-12-22T00:00:00-06:00</updated>
+   <id>http://example.com/sewing-machine</id>
+   <content type="html">&lt;p&gt;m0851 on &lt;a href=&quot;https://unsplash.com/photos/8FU3W-i4as8&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ 
+ 
+ <entry>
+   <title>Metal Grate</title>
+   <link href="http://example.com/metal-grate/"/>
+   <updated>2016-12-22T00:00:00-06:00</updated>
+   <id>http://example.com/metal-grate</id>
+   <content type="html">&lt;p&gt;Andrew Childress on &lt;a href=&quot;https://unsplash.com/photos/ZX3xxcsl8C4&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ 
+ 
+ <entry>
+   <title>Loading Bay</title>
+   <link href="http://example.com/loading-bay/"/>
+   <updated>2016-12-22T00:00:00-06:00</updated>
+   <id>http://example.com/loading-bay</id>
+   <content type="html">&lt;p&gt;Samuel Zeller on &lt;a href=&quot;https://unsplash.com/photos/2xVNV8gJ3Zk&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ 
+ 
+ <entry>
+   <title>Garage Entrance</title>
+   <link href="http://example.com/garage-entrance/"/>
+   <updated>2016-12-22T00:00:00-06:00</updated>
+   <id>http://example.com/garage-entrance</id>
+   <content type="html">&lt;p&gt;Carl Nenzen Loven on &lt;a href=&quot;https://unsplash.com/photos/I9to3-YsNIw&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ 
+ 
+ <entry>
+   <title>Dark Welders</title>
+   <link href="http://example.com/dark-welders/"/>
+   <updated>2016-12-22T00:00:00-06:00</updated>
+   <id>http://example.com/dark-welders</id>
+   <content type="html">&lt;p&gt;Pete Wright on &lt;a href=&quot;https://unsplash.com/photos/n1RJ7pXgGTE&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ 
+ 
+ <entry>
+   <title>CERN Hardware</title>
+   <link href="http://example.com/cern-hardware/"/>
+   <updated>2016-12-22T00:00:00-06:00</updated>
+   <id>http://example.com/cern-hardware</id>
+   <content type="html">&lt;p&gt;Samuel Zeller on &lt;a href=&quot;https://unsplash.com/photos/2BHDrWzyCto&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ 
+ 
+ <entry>
+   <title>Cell Tower</title>
+   <link href="http://example.com/cell-tower/"/>
+   <updated>2016-12-22T00:00:00-06:00</updated>
+   <id>http://example.com/cell-tower</id>
+   <content type="html">&lt;p&gt;Samuel Zeller on &lt;a href=&quot;https://unsplash.com/photos/aKetFyhQ9bo&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ 
+ 
+ <entry>
+   <title>Caged Staircase</title>
+   <link href="http://example.com/caged-staircase/"/>
+   <updated>2016-12-22T00:00:00-06:00</updated>
+   <id>http://example.com/caged-staircase</id>
+   <content type="html">&lt;p&gt;Daria Nepriakhina on &lt;a href=&quot;https://unsplash.com/photos/UHO0Ry6qUOQ&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ 
+ 
+ <entry>
+   <title>Bus Depot</title>
+   <link href="http://example.com/bus-depot/"/>
+   <updated>2016-12-22T00:00:00-06:00</updated>
+   <id>http://example.com/bus-depot</id>
+   <content type="html">&lt;p&gt;Chuttersnap on &lt;a href=&quot;https://unsplash.com/photos/vL4ARRCFyg4&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ 
+</feed>

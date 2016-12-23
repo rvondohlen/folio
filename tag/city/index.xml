@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - city</title>
+ <link href="http://example.com/tag/city/index.xml" rel="self"/>
+ <link href="http://example.com/tag/city.html"/>
+ <updated>2016-12-23T13:56:25-06:00</updated>
+ <id>http://example.com/tag/city.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ 
+ <entry>
+   <title>Staircase Window</title>
+   <link href="http://example.com/staircase-window/"/>
+   <updated>2016-12-22T00:00:00-06:00</updated>
+   <id>http://example.com/staircase-window</id>
+   <content type="html">&lt;p&gt;Todd Quackenbush on &lt;a href=&quot;https://unsplash.com/photos/JJB_K8aCPU4&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ 
+ 
+ <entry>
+   <title>Seattle Skyline</title>
+   <link href="http://example.com/seattle-skyline/"/>
+   <updated>2016-12-22T00:00:00-06:00</updated>
+   <id>http://example.com/seattle-skyline</id>
+   <content type="html">&lt;p&gt;Matt Quinn on &lt;a href=&quot;https://unsplash.com/photos/4_JqOI9q2VA&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ 
+ 
+ <entry>
+   <title>NY Light</title>
+   <link href="http://example.com/ny-light/"/>
+   <updated>2016-12-22T00:00:00-06:00</updated>
+   <id>http://example.com/ny-light</id>
+   <content type="html">&lt;p&gt;Ben O Bro on &lt;a href=&quot;https://unsplash.com/photos/wpU4veNGnHg&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ 
+ 
+ <entry>
+   <title>Hazy City</title>
+   <link href="http://example.com/hazy-city/"/>
+   <updated>2016-12-22T00:00:00-06:00</updated>
+   <id>http://example.com/hazy-city</id>
+   <content type="html">&lt;p&gt;Anthony Delanoix on &lt;a href=&quot;https://unsplash.com/photos/RokFUDqlTIo&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ 
+ 
+ <entry>
+   <title>Garage Entrance</title>
+   <link href="http://example.com/garage-entrance/"/>
+   <updated>2016-12-22T00:00:00-06:00</updated>
+   <id>http://example.com/garage-entrance</id>
+   <content type="html">&lt;p&gt;Carl Nenzen Loven on &lt;a href=&quot;https://unsplash.com/photos/I9to3-YsNIw&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ 
+ 
+ <entry>
+   <title>Cloudy City</title>
+   <link href="http://example.com/cloudy-city/"/>
+   <updated>2016-12-22T00:00:00-06:00</updated>
+   <id>http://example.com/cloudy-city</id>
+   <content type="html">&lt;p&gt;Chelms Varthoumlien on &lt;a href=&quot;https://unsplash.com/photos/RIitBL7ng34&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ 
+ 
+ <entry>
+   <title>Bright Wall</title>
+   <link href="http://example.com/bright-wall/"/>
+   <updated>2016-12-22T00:00:00-06:00</updated>
+   <id>http://example.com/bright-wall</id>
+   <content type="html">&lt;p&gt;Hans M on &lt;a href=&quot;https://unsplash.com/photos/IF2MIzP2wXI&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ 
+ 
+ <entry>
+   <title>Alley Reflection</title>
+   <link href="http://example.com/alley-reflection/"/>
+   <updated>2016-12-22T00:00:00-06:00</updated>
+   <id>http://example.com/alley-reflection</id>
+   <content type="html">&lt;p&gt;Eugene Triguba on &lt;a href=&quot;https://unsplash.com/photos/CVO3TozRVp8&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ 
+ 
+ <entry>
+   <title>Above NYC</title>
+   <link href="http://example.com/above-nyc/"/>
+   <updated>2016-12-22T00:00:00-06:00</updated>
+   <id>http://example.com/above-nyc</id>
+   <content type="html">&lt;p&gt;Vincenzo Di Giorgi on &lt;a href=&quot;https://unsplash.com/photos/ni9mKm62QnA&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ 
+</feed>

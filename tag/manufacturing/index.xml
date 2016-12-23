@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - manufacturing</title>
+ <link href="http://example.com/tag/manufacturing/index.xml" rel="self"/>
+ <link href="http://example.com/tag/manufacturing.html"/>
+ <updated>2016-12-23T13:56:25-06:00</updated>
+ <id>http://example.com/tag/manufacturing.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ 
+ <entry>
+   <title>Sewing Machine</title>
+   <link href="http://example.com/sewing-machine/"/>
+   <updated>2016-12-22T00:00:00-06:00</updated>
+   <id>http://example.com/sewing-machine</id>
+   <content type="html">&lt;p&gt;m0851 on &lt;a href=&quot;https://unsplash.com/photos/8FU3W-i4as8&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ 
+</feed>

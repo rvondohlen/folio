@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - nature</title>
+ <link href="http://example.com/tag/nature/index.xml" rel="self"/>
+ <link href="http://example.com/tag/nature.html"/>
+ <updated>2016-12-23T13:56:25-06:00</updated>
+ <id>http://example.com/tag/nature.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ 
+ <entry>
+   <title>Rock Formation</title>
+   <link href="http://example.com/rock-formation/"/>
+   <updated>2016-12-22T00:00:00-06:00</updated>
+   <id>http://example.com/rock-formation</id>
+   <content type="html">&lt;p&gt;Alexandre Chambon on &lt;a href=&quot;https://unsplash.com/photos/a3OwknPcIq8&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ 
+</feed>
