@@ -1,0 +1,21 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<html lang="en">
+{% include head.html %}
+<body>
+<header>
+
+{% include sidebar.html %}
+
+{{content}}
+
+<script src={{"/js/jquery.min.js" | prepend: site.baseurl }}></script>
+<script src={{"/js/masonry.pkgd.js" | prepend: site.baseurl }}></script>
+<script src={{"/js/randomColor.js" | prepend: site.baseurl }}></script>
+<script src={{"/js/velocity.min.js" | prepend: site.baseurl }}></script>
+<script src={{"/js/index.js" | prepend: site.baseurl }}></script>
+
+</body>
+</html>

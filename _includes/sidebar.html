@@ -1,0 +1,20 @@
+<div class="sidebar">
+  <div class="sidebar-content">
+    <div class="sidebar-tag-list">
+      <h4>Tags:</h4>
+      <ul>
+      {% for tag in site.tags %}
+        {% assign t = tag | first %}
+        {% assign posts = tag | last %}
+        <li><a id={{t | downcase | replace:" ","-" }} href={{ "/tag/" | append: t | append: "/" | prepend: site.baseurl }}>{{ t | capitalize_all }}</a></li>
+      {% endfor %}
+      </ul>
+    </div>
+    <div class="sidebar-title">
+        <a href="{{ "/" | prepend: site.baseurl }}">
+          <h1>Folio</h1>
+        </a>
+        <h4>v0.001</h4>
+    </div>
+  </div>
+</div>
