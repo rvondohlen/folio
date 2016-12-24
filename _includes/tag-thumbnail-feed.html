@@ -6,7 +6,7 @@
     <a href="{{ site.baseurl | append: post.url }}">
     {% if post.img %}
     	{% assign sans_extension = post.img | split: "." %}
-    	{% assign new_extension = sans_extension[0] | append: "_240x.jpg" %}
+    	{% assign new_extension = sans_extension[0] | append: "_480x.jpg" %}
     	<img class="" src={{ "../../img/post/thumbs/" | append: new_extension }} alt="{{post.title}}">
     {% endif %}
       <p class="grid-item-caption" >{{post.title}}</p>

@@ -6,7 +6,7 @@
     {% if post.img %}
     	{% assign base_string = "./img/post/" %}
     	{% assign full_image = base_string  | append: post.img %}
-    	{% thumbnail full_image 240x %}
+    	{% thumbnail full_image 480x %}
     {% endif %}
       <p class="grid-item-caption" >{{post.title}}</p>
     </a>
