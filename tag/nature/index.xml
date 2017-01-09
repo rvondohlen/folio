@@ -3,7 +3,7 @@
  <title>Your Title - nature</title>
  <link href="http://example.com/tag/nature/index.xml" rel="self"/>
  <link href="http://example.com/tag/nature.html"/>
- <updated>2016-12-24T09:14:31-06:00</updated>
+ <updated>2017-01-09T11:13:18-05:00</updated>
  <id>http://example.com/tag/nature.html</id>
  <author>
    <name>Author Here</name>
@@ -13,7 +13,7 @@
  <entry>
    <title>Rock Formation</title>
    <link href="http://example.com/rock-formation/"/>
-   <updated>2016-12-22T00:00:00-06:00</updated>
+   <updated>2016-12-22T00:00:00-05:00</updated>
    <id>http://example.com/rock-formation</id>
    <content type="html">&lt;p&gt;Alexandre Chambon on &lt;a href=&quot;https://unsplash.com/photos/a3OwknPcIq8&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
 

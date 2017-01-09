@@ -3,7 +3,7 @@
  <title>Your Title - architecture</title>
  <link href="http://example.com/tag/architecture/index.xml" rel="self"/>
  <link href="http://example.com/tag/architecture.html"/>
- <updated>2016-12-24T09:14:31-06:00</updated>
+ <updated>2017-01-09T11:13:18-05:00</updated>
  <id>http://example.com/tag/architecture.html</id>
  <author>
    <name>Author Here</name>
@@ -13,7 +13,7 @@
  <entry>
    <title>Staircase Window</title>
    <link href="http://example.com/staircase-window/"/>
-   <updated>2016-12-22T00:00:00-06:00</updated>
+   <updated>2016-12-22T00:00:00-05:00</updated>
    <id>http://example.com/staircase-window</id>
    <content type="html">&lt;p&gt;Todd Quackenbush on &lt;a href=&quot;https://unsplash.com/photos/JJB_K8aCPU4&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
 
@@ -25,7 +25,7 @@
  <entry>
    <title>Old Town</title>
    <link href="http://example.com/old-town/"/>
-   <updated>2016-12-22T00:00:00-06:00</updated>
+   <updated>2016-12-22T00:00:00-05:00</updated>
    <id>http://example.com/old-town</id>
    <content type="html">&lt;p&gt;Tom Parkes on &lt;a href=&quot;https://unsplash.com/photos/xuPiZa2TvuQ&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
 
@@ -37,7 +37,7 @@
  <entry>
    <title>NY Light</title>
    <link href="http://example.com/ny-light/"/>
-   <updated>2016-12-22T00:00:00-06:00</updated>
+   <updated>2016-12-22T00:00:00-05:00</updated>
    <id>http://example.com/ny-light</id>
    <content type="html">&lt;p&gt;Ben O Bro on &lt;a href=&quot;https://unsplash.com/photos/wpU4veNGnHg&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
 
@@ -49,7 +49,7 @@
  <entry>
    <title>Loading Bay</title>
    <link href="http://example.com/loading-bay/"/>
-   <updated>2016-12-22T00:00:00-06:00</updated>
+   <updated>2016-12-22T00:00:00-05:00</updated>
    <id>http://example.com/loading-bay</id>
    <content type="html">&lt;p&gt;Samuel Zeller on &lt;a href=&quot;https://unsplash.com/photos/2xVNV8gJ3Zk&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
 
@@ -61,7 +61,7 @@
  <entry>
    <title>Garage Entrance</title>
    <link href="http://example.com/garage-entrance/"/>
-   <updated>2016-12-22T00:00:00-06:00</updated>
+   <updated>2016-12-22T00:00:00-05:00</updated>
    <id>http://example.com/garage-entrance</id>
    <content type="html">&lt;p&gt;Carl Nenzen Loven on &lt;a href=&quot;https://unsplash.com/photos/I9to3-YsNIw&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
 
@@ -73,7 +73,7 @@
  <entry>
    <title>Dark Staircase</title>
    <link href="http://example.com/dark-staircase/"/>
-   <updated>2016-12-22T00:00:00-06:00</updated>
+   <updated>2016-12-22T00:00:00-05:00</updated>
    <id>http://example.com/dark-staircase</id>
    <content type="html">&lt;p&gt;Boris Stefanik on &lt;a href=&quot;https://unsplash.com/photos/wxJscL5ZzDA&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
 
@@ -85,7 +85,7 @@
  <entry>
    <title>Colorful Windows</title>
    <link href="http://example.com/colorful-windows/"/>
-   <updated>2016-12-22T00:00:00-06:00</updated>
+   <updated>2016-12-22T00:00:00-05:00</updated>
    <id>http://example.com/colorful-windows</id>
    <content type="html">&lt;p&gt;Samuel Zeller on &lt;a href=&quot;https://unsplash.com/photos/byXFt2LwVac&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
 
@@ -97,7 +97,7 @@
  <entry>
    <title>Caged Staircase</title>
    <link href="http://example.com/caged-staircase/"/>
-   <updated>2016-12-22T00:00:00-06:00</updated>
+   <updated>2016-12-22T00:00:00-05:00</updated>
    <id>http://example.com/caged-staircase</id>
    <content type="html">&lt;p&gt;Daria Nepriakhina on &lt;a href=&quot;https://unsplash.com/photos/UHO0Ry6qUOQ&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
 
@@ -109,7 +109,7 @@
  <entry>
    <title>Bus Depot</title>
    <link href="http://example.com/bus-depot/"/>
-   <updated>2016-12-22T00:00:00-06:00</updated>
+   <updated>2016-12-22T00:00:00-05:00</updated>
    <id>http://example.com/bus-depot</id>
    <content type="html">&lt;p&gt;Chuttersnap on &lt;a href=&quot;https://unsplash.com/photos/vL4ARRCFyg4&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
 
@@ -121,7 +121,7 @@
  <entry>
    <title>Concrete Ceiling</title>
    <link href="http://example.com/concrete-ceiling/"/>
-   <updated>2016-12-22T00:00:00-06:00</updated>
+   <updated>2016-12-22T00:00:00-05:00</updated>
    <id>http://example.com/concrete-ceiling</id>
    <content type="html">&lt;p&gt;Layton Diament on &lt;a href=&quot;https://unsplash.com/photos/l_TFtUzU9cY&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
 

@@ -3,7 +3,7 @@
  <title>Your Title - space</title>
  <link href="http://example.com/tag/space/index.xml" rel="self"/>
  <link href="http://example.com/tag/space.html"/>
- <updated>2016-12-24T09:14:31-06:00</updated>
+ <updated>2017-01-09T11:13:18-05:00</updated>
  <id>http://example.com/tag/space.html</id>
  <author>
    <name>Author Here</name>
@@ -13,7 +13,7 @@
  <entry>
    <title>Earth Lights</title>
    <link href="http://example.com/earth-lights/"/>
-   <updated>2016-12-22T00:00:00-06:00</updated>
+   <updated>2016-12-22T00:00:00-05:00</updated>
    <id>http://example.com/earth-lights</id>
    <content type="html">&lt;p&gt;NASA on &lt;a href=&quot;https://unsplash.com/photos/Q1p7bh3SHj8&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
 
@@ -25,7 +25,7 @@
  <entry>
    <title>Deep Space</title>
    <link href="http://example.com/deep-space/"/>
-   <updated>2016-12-22T00:00:00-06:00</updated>
+   <updated>2016-12-22T00:00:00-05:00</updated>
    <id>http://example.com/deep-space</id>
    <content type="html">&lt;p&gt;Adrian Pelletier on &lt;a href=&quot;https://unsplash.com/photos/BeIvjuz6k2k&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
 
@@ -37,7 +37,7 @@
  <entry>
    <title>Clear Moon</title>
    <link href="http://example.com/clear-moon/"/>
-   <updated>2016-12-22T00:00:00-06:00</updated>
+   <updated>2016-12-22T00:00:00-05:00</updated>
    <id>http://example.com/clear-moon</id>
    <content type="html">&lt;p&gt;David Cohen on &lt;a href=&quot;https://unsplash.com/photos/Tpy8bl8Io-I&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
 

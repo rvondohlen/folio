@@ -3,7 +3,7 @@
  <title>Your Title - skyline</title>
  <link href="http://example.com/tag/skyline/index.xml" rel="self"/>
  <link href="http://example.com/tag/skyline.html"/>
- <updated>2016-12-24T09:14:31-06:00</updated>
+ <updated>2017-01-09T11:13:18-05:00</updated>
  <id>http://example.com/tag/skyline.html</id>
  <author>
    <name>Author Here</name>
@@ -13,7 +13,7 @@
  <entry>
    <title>Seattle Skyline</title>
    <link href="http://example.com/seattle-skyline/"/>
-   <updated>2016-12-22T00:00:00-06:00</updated>
+   <updated>2016-12-22T00:00:00-05:00</updated>
    <id>http://example.com/seattle-skyline</id>
    <content type="html">&lt;p&gt;Matt Quinn on &lt;a href=&quot;https://unsplash.com/photos/4_JqOI9q2VA&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
 
@@ -25,7 +25,7 @@
  <entry>
    <title>Hazy City</title>
    <link href="http://example.com/hazy-city/"/>
-   <updated>2016-12-22T00:00:00-06:00</updated>
+   <updated>2016-12-22T00:00:00-05:00</updated>
    <id>http://example.com/hazy-city</id>
    <content type="html">&lt;p&gt;Anthony Delanoix on &lt;a href=&quot;https://unsplash.com/photos/RokFUDqlTIo&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
 
@@ -37,7 +37,7 @@
  <entry>
    <title>Cloudy City</title>
    <link href="http://example.com/cloudy-city/"/>
-   <updated>2016-12-22T00:00:00-06:00</updated>
+   <updated>2016-12-22T00:00:00-05:00</updated>
    <id>http://example.com/cloudy-city</id>
    <content type="html">&lt;p&gt;Chelms Varthoumlien on &lt;a href=&quot;https://unsplash.com/photos/RIitBL7ng34&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
 

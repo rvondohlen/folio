@@ -3,7 +3,7 @@
  <title>Your Title - hardware</title>
  <link href="http://example.com/tag/hardware/index.xml" rel="self"/>
  <link href="http://example.com/tag/hardware.html"/>
- <updated>2016-12-24T09:14:31-06:00</updated>
+ <updated>2017-01-09T11:13:18-05:00</updated>
  <id>http://example.com/tag/hardware.html</id>
  <author>
    <name>Author Here</name>
@@ -13,7 +13,7 @@
  <entry>
    <title>Metal Grate</title>
    <link href="http://example.com/metal-grate/"/>
-   <updated>2016-12-22T00:00:00-06:00</updated>
+   <updated>2016-12-22T00:00:00-05:00</updated>
    <id>http://example.com/metal-grate</id>
    <content type="html">&lt;p&gt;Andrew Childress on &lt;a href=&quot;https://unsplash.com/photos/ZX3xxcsl8C4&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
 
@@ -25,7 +25,7 @@
  <entry>
    <title>Cell Tower</title>
    <link href="http://example.com/cell-tower/"/>
-   <updated>2016-12-22T00:00:00-06:00</updated>
+   <updated>2016-12-22T00:00:00-05:00</updated>
    <id>http://example.com/cell-tower</id>
    <content type="html">&lt;p&gt;Samuel Zeller on &lt;a href=&quot;https://unsplash.com/photos/aKetFyhQ9bo&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
 

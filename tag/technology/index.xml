@@ -3,7 +3,7 @@
  <title>Your Title - technology</title>
  <link href="http://example.com/tag/technology/index.xml" rel="self"/>
  <link href="http://example.com/tag/technology.html"/>
- <updated>2016-12-24T09:14:31-06:00</updated>
+ <updated>2017-01-09T11:13:18-05:00</updated>
  <id>http://example.com/tag/technology.html</id>
  <author>
    <name>Author Here</name>
@@ -13,7 +13,7 @@
  <entry>
    <title>Cell Tower</title>
    <link href="http://example.com/cell-tower/"/>
-   <updated>2016-12-22T00:00:00-06:00</updated>
+   <updated>2016-12-22T00:00:00-05:00</updated>
    <id>http://example.com/cell-tower</id>
    <content type="html">&lt;p&gt;Samuel Zeller on &lt;a href=&quot;https://unsplash.com/photos/aKetFyhQ9bo&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
 
