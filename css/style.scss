@@ -93,7 +93,7 @@ li {
 }
 
 .sidebar h4 { 
-  color: #212121;
+  color: #515151;
   border-top: 2px solid #212121;
   padding-top: 10px;
 }
@@ -110,16 +110,17 @@ li {
 .sidebar-title a {
   text-decoration: none;
   display: block;
-  color: #212121;
+  color: #fff;
 }
 
 .sidebar-title {
   margin-top: 36px;
   z-index: 1000;
+
 }
 
 .sidebar-title a:hover  {
-  color: #fff;
+  color: #b1b1b1;
 }
 
 @media screen and (max-width: 699px) {
@@ -167,9 +168,9 @@ li {
 
 
   
-    -webkit-transition: all .35s ease-in-out;
-  -o-transition: all .35s ease-in-out;
-  transition: all .35s ease-in-out;
+    -webkit-transition: all .22s ease-in-out;
+  -o-transition: all .22s ease-in-out;
+  transition: all .22s ease-in-out;
 }
 
 
@@ -189,11 +190,12 @@ li {
 .sidebar li a#bikes { color: #B7685C; }*/
 
 .sidebar li a {
-  color: #ffffff;
+  color: #fff;
   display: block;
+  opacity: 0.70;
   &:hover {
-    transform: translateX( 2px);
-    opacity: 0.5;
+    transform: translateX(2px);
+    color: #c4c4c4;
   }
 
 /*  -webkit-transition: all .15s ease-in-out;
@@ -225,6 +227,7 @@ li {
 
 .sidebar li a.active {
  	margin-left: 18px;
+  color: #c4c4c4;
 
 	&:hover  {
 	  text-decoration: none;
@@ -234,6 +237,7 @@ li {
 	  content: "•";
 	  position: absolute;
 	  font-weight: bold;
+    color: #a1a1a1;
 	  font-size: 13px;
 	  transform: translateX(-17px) translateY(-3px);
 	}
