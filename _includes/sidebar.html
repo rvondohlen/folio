@@ -6,9 +6,11 @@
       {% for tag in site.tags %}
         {% assign t = tag | first %}
         {% assign posts = tag | last %}
-        <li><a id={{t | downcase | replace:" ","-" }} href={{ "/tag/" | append: t | append: "/" | prepend: site.baseurl }}>{{ t | capitalize_all }}</a></li>
+        <li class="tag-link"><a id={{t | downcase | replace:" ","-" }} href={{ "/tag/" | append: t | append: "/" | prepend: site.baseurl }}>{{ t | capitalize_all }}</a></li>
       {% endfor %}
+      <li class="home-link hidden"><a href="{{ "/" | prepend: site.baseurl }}">All Tags</a></li>
       </ul>
+      
     </div>
     <div class="sidebar-notice">
       <p>This is a demo of the <a href="https://github.com/rvondohlen/folio">Folio</a> theme for <a href="https://jekyllrb.com/">Jekyll.</p>
