@@ -255,9 +255,7 @@ li {
    }
 }
 
-.sidebar li.home-link.hidden {
-  display: none;
-}
+
 
 .sidebar li a.active,
 .sidebar li.home-link {
@@ -291,11 +289,17 @@ li {
 .sidebar li.home-link {
   margin-top: 50px;
   margin-left: 0;
+  opacity: 1;
    &::before {
     content: "◀";
    }
+
+   transition: all .25s ease-in;
 }
 
+.sidebar li.home-link.hidden {
+  opacity: 0;
+}
 
 
 /* --- content --- */

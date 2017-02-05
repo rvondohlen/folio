@@ -31,7 +31,7 @@ $(window).on("load", function() {
                 $(this).addClass("active");
             }
         });
-        $('.sidebar-tag-list li.home-link').fadeIn();
+        $('.sidebar-tag-list li.home-link').removeClass("hidden");
     } else {
         console.log("Welcome!");
     }
