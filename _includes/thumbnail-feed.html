@@ -8,7 +8,7 @@
     	{% assign full_image = base_string  | append: post.img %}
     	{% thumbnail full_image 480x %}
     {% endif %}
-      <p class="grid-item-caption" >{{post.title}}</p>
+      <p class="grid-item-caption" >{{post.title}}<span>{{ post.date| date: "%m-%d-%Y" }}</span></p>
     </a>
   </div>
 {% endfor %}

@@ -2,11 +2,22 @@
 layout: default
 ---
 
-<div class="content">
+<div class="content post">
     <div class="article">
    {% if page.img %}
     <img class="featured-img" src={{ "/img/post/" | prepend: site.baseurl | append : page.img}} alt="{{page.title}}">
     {% endif %}
     {{page.content}}
+    <hr>
+    	<div class="post-front-matter">
+		    <p><span>Title:</span> {{page.title}}</p>
+		    <p><span>Description:</span> {{page.description}}</p>
+		    <p><span>Date:</span> {{page.date | date: "%d-%m-%y"}}</p>
+		    <p class="post-tag-list"><span>Tags:</span>
+		    {% for tag in page.tags %} 
+			  	<a class="post-tag-list-item" href="{{"/tag/"| prepend: site.baseurl | append: tag }}">{{ tag | capitalize_all }}</a>
+		  	{% endfor %}
+		  	</p>
+		</div>
     </div>
 </div>

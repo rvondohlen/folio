@@ -9,7 +9,7 @@
     	{% assign new_extension = sans_extension[0] | append: "_480x.jpg" %}
     	<img class="" src={{ "../../img/post/thumbs/" | append: new_extension }} alt="{{post.title}}">
     {% endif %}
-      <p class="grid-item-caption" >{{post.title}}</p>
+      <p class="grid-item-caption" >{{post.title}}<span>{{ post.date| date: "%m-%d-%y" }}</span></p>
     </a>
   </div>
 {% endif %}
