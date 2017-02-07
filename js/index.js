@@ -36,6 +36,9 @@ $(window).on("load", function() {
         console.log("Welcome!");
     }
 
+    if($(".content").hasClass("post")){
+      $('.sidebar-tag-list li.home-link').removeClass("hidden");
+    }
 
   setTimeout(function() {
 	$('.grid').masonry({
