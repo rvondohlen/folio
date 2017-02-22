@@ -2,11 +2,28 @@
 
 a Jekyll theme for organizing images
 
-run with `jekyll serve --watch`
+
+## Installation
+
+this theme has the following dependencies that you must install
+
+- jekyll-paginate `gem install jekyll-paginate`
+- jekyll-seo-tag `gem install jekyll-seo-tag`
+- jekyll-tagging `gem install jekyll-tagging`
+- ImageMagick/GraphicsMagick `brew install graphicsmagick`
+	
+## Running
+
+run and watch for changes to source `jekyll serve --watch`
+
 
 ## Demo
 
-[rvondohlen.github.io/folio/](https://rvondohlen.github.io/folio/)
+`jekyll build` or `jekyll serve` will create static site in the `_site/` directory
+
+Live demo: [rvondohlen.github.io/folio/](https://rvondohlen.github.io/folio/)
+
+Static output lives in the [gh-pages branch](https://github.com/rvondohlen/folio/tree/gh-pages)
 
 ## Background
 
